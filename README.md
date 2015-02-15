@@ -36,5 +36,5 @@ FWIW, I did find that hard-coding the type of my cateogries data structure helpe
 
 ### Walkthrough
 
-![Video Walkthrough](Wk2_walkthru.gif)
+![Video Walkthrough](Wk2-walkthru.gif)
 
