@@ -7,3 +7,19 @@
 //
 
 import Foundation
+
+class Filters
+{
+    let METERS_PER_MILE = 1609.34
+    init() {
+        self.categoryIdxs = NSMutableSet()
+        self.showDealsOnly = false
+        self.distanceInMeters = METERS_PER_MILE
+        self.sortByIdx = 0
+    }
+    
+    var categoryIdxs: NSMutableSet!
+    var showDealsOnly: Bool!
+    var distanceInMeters: Double
+    var sortByIdx: Int!
+}

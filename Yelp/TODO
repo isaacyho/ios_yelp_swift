@@ -1,0 +1,8 @@
+Layout:
+( try creating brand new controller to test with )
+: handle the address being too long
+: word wrap weird for cells until refresh?
+
+: optional: switch between short categories and long
+
+
